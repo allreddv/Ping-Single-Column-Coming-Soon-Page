@@ -195,6 +195,7 @@ form input::placeholder {
 
     .main__text {
         font-size: 2rem;
+        margin-top: 1.6rem;
     }
 
     form {
