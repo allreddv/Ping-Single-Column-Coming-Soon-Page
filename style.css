@@ -176,6 +176,7 @@ form input::placeholder {
     color: var(--Gray);
     font-weight: 300;
     text-align: center;
+    font-size: 1.2rem;
 }
 
 @media screen and (min-width: 1000px) {
